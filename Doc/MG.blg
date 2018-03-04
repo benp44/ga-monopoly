@@ -1,0 +1,17 @@
+[1] Config.pm:324> INFO - This is Biber 2.1
+[1] Config.pm:327> INFO - Logfile is 'MG.blg'
+[102] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
+[103] Biber.pm:333> INFO - Reading 'MG.bcf'
+[499] Utils.pm:146> WARN - Warning: Found biblatex control file version 2.8, expected version 2.7
+[500] Biber.pm:645> INFO - Found 4 citekeys in bib section 0
+[530] Biber.pm:2977> INFO - Processing section 0
+[558] Biber.pm:3115> INFO - Looking for bibtex format file 'MG.bib' for section 0
+[570] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[576] bibtex.pm:895> INFO - Found BibTeX data source 'MG.bib'
+[651] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[651] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[652] Biber.pm:2854> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-US'
+[652] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[658] bbl.pm:505> INFO - Writing 'MG.bbl' with encoding 'ascii'
+[693] bbl.pm:596> INFO - Output to MG.bbl
+[694] Biber.pm:106> INFO - WARNINGS: 1
